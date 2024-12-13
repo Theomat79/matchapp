@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/matchapp/static/css/main.122e0334.css",
-    "main.js": "/matchapp/static/js/main.2dc9d7cb.js",
+    "main.js": "/matchapp/static/js/main.b171ab05.js",
     "index.html": "/matchapp/index.html",
     "main.122e0334.css.map": "/matchapp/static/css/main.122e0334.css.map",
-    "main.2dc9d7cb.js.map": "/matchapp/static/js/main.2dc9d7cb.js.map"
+    "main.b171ab05.js.map": "/matchapp/static/js/main.b171ab05.js.map"
   },
   "entrypoints": [
     "static/css/main.122e0334.css",
-    "static/js/main.2dc9d7cb.js"
+    "static/js/main.b171ab05.js"
   ]
 }
